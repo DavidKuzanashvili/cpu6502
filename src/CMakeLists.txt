@@ -1,0 +1,1 @@
+add_library(cpu6502 cpu6502.cpp cpu6502.h)
